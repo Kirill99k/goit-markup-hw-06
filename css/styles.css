@@ -794,7 +794,7 @@ img {
 .modal-checkbox {
   display: flex;
   align-items: center;
-  margin-left: 13px;
+  justify-content: center;
   margin-bottom: 30px;
 }
 
